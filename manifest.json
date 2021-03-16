@@ -1,0 +1,19 @@
+{
+	"name": "#HERRAMIENTA DE ECONOMÍA CIRCULAR",
+	"short_name": "#HEC",
+	"description": "HERRAMIENTA DE AUTOEVALUACIÓN DE LA ECONOMÍA CIRCULAR EN EMPRESAS DE LA REGIÓN EUROACE",
+	"background_color": "#FFFFFF",
+	"theme_color": "#48853F",
+	"orientation": "portrait",
+	"display": "standalone",
+	"start_url": "./?utm_source=web_app_manifest",
+	"scope": "./",
+	"lang": "es",
+	"icons": [
+		{
+		  "src": "../images/ico_144.png",
+		  "sizes": "144x144",
+		  "type": "image/png"
+		}
+	]
+}
